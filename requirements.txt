@@ -1,0 +1,14 @@
+flask
+numpy
+joblib
+opencv-python
+mediapipe
+streamlit
+tensorflow
+opencv-python
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
+joblib
