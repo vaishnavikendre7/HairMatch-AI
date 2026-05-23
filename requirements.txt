@@ -1,14 +1,8 @@
-flask
-numpy
-joblib
-opencv-python
-mediapipe
 streamlit
-tensorflow
-opencv-python
 numpy
 pandas
 matplotlib
 Pillow
+opencv-python-headless
 scikit-learn
 joblib
